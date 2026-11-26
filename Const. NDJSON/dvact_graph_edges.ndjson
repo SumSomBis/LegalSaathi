@@ -1,0 +1,262 @@
+{"edge_id": "DOC_HAS_CHAP_I", "source": "DVACT_DOC", "target": "DVACT_CHAP_I", "relation": "HAS_CHAPTER", "properties": {}}
+{"edge_id": "DOC_HAS_CHAP_II", "source": "DVACT_DOC", "target": "DVACT_CHAP_II", "relation": "HAS_CHAPTER", "properties": {}}
+{"edge_id": "DOC_HAS_CHAP_III", "source": "DVACT_DOC", "target": "DVACT_CHAP_III", "relation": "HAS_CHAPTER", "properties": {}}
+{"edge_id": "DOC_HAS_CHAP_IV", "source": "DVACT_DOC", "target": "DVACT_CHAP_IV", "relation": "HAS_CHAPTER", "properties": {}}
+{"edge_id": "DOC_HAS_CHAP_V", "source": "DVACT_DOC", "target": "DVACT_CHAP_V", "relation": "HAS_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_I_HAS_1", "source": "DVACT_CHAP_I", "target": "DVACT_SEC_1", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_1_IN_CHAP_I", "source": "DVACT_SEC_1", "target": "DVACT_CHAP_I", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_I_HAS_2", "source": "DVACT_CHAP_I", "target": "DVACT_SEC_2", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_2_IN_CHAP_I", "source": "DVACT_SEC_2", "target": "DVACT_CHAP_I", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_II_HAS_3", "source": "DVACT_CHAP_II", "target": "DVACT_SEC_3", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_3_IN_CHAP_II", "source": "DVACT_SEC_3", "target": "DVACT_CHAP_II", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_III_HAS_4", "source": "DVACT_CHAP_III", "target": "DVACT_SEC_4", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_4_IN_CHAP_III", "source": "DVACT_SEC_4", "target": "DVACT_CHAP_III", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_III_HAS_5", "source": "DVACT_CHAP_III", "target": "DVACT_SEC_5", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_5_IN_CHAP_III", "source": "DVACT_SEC_5", "target": "DVACT_CHAP_III", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_III_HAS_6", "source": "DVACT_CHAP_III", "target": "DVACT_SEC_6", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_6_IN_CHAP_III", "source": "DVACT_SEC_6", "target": "DVACT_CHAP_III", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_III_HAS_7", "source": "DVACT_CHAP_III", "target": "DVACT_SEC_7", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_7_IN_CHAP_III", "source": "DVACT_SEC_7", "target": "DVACT_CHAP_III", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_III_HAS_8", "source": "DVACT_CHAP_III", "target": "DVACT_SEC_8", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_8_IN_CHAP_III", "source": "DVACT_SEC_8", "target": "DVACT_CHAP_III", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_III_HAS_9", "source": "DVACT_CHAP_III", "target": "DVACT_SEC_9", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_9_IN_CHAP_III", "source": "DVACT_SEC_9", "target": "DVACT_CHAP_III", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_III_HAS_10", "source": "DVACT_CHAP_III", "target": "DVACT_SEC_10", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_10_IN_CHAP_III", "source": "DVACT_SEC_10", "target": "DVACT_CHAP_III", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_III_HAS_11", "source": "DVACT_CHAP_III", "target": "DVACT_SEC_11", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_11_IN_CHAP_III", "source": "DVACT_SEC_11", "target": "DVACT_CHAP_III", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_IV_HAS_12", "source": "DVACT_CHAP_IV", "target": "DVACT_SEC_12", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_12_IN_CHAP_IV", "source": "DVACT_SEC_12", "target": "DVACT_CHAP_IV", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_IV_HAS_13", "source": "DVACT_CHAP_IV", "target": "DVACT_SEC_13", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_13_IN_CHAP_IV", "source": "DVACT_SEC_13", "target": "DVACT_CHAP_IV", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_IV_HAS_14", "source": "DVACT_CHAP_IV", "target": "DVACT_SEC_14", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_14_IN_CHAP_IV", "source": "DVACT_SEC_14", "target": "DVACT_CHAP_IV", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_IV_HAS_15", "source": "DVACT_CHAP_IV", "target": "DVACT_SEC_15", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_15_IN_CHAP_IV", "source": "DVACT_SEC_15", "target": "DVACT_CHAP_IV", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_IV_HAS_16", "source": "DVACT_CHAP_IV", "target": "DVACT_SEC_16", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_16_IN_CHAP_IV", "source": "DVACT_SEC_16", "target": "DVACT_CHAP_IV", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_IV_HAS_17", "source": "DVACT_CHAP_IV", "target": "DVACT_SEC_17", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_17_IN_CHAP_IV", "source": "DVACT_SEC_17", "target": "DVACT_CHAP_IV", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_IV_HAS_18", "source": "DVACT_CHAP_IV", "target": "DVACT_SEC_18", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_18_IN_CHAP_IV", "source": "DVACT_SEC_18", "target": "DVACT_CHAP_IV", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_IV_HAS_19", "source": "DVACT_CHAP_IV", "target": "DVACT_SEC_19", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_19_IN_CHAP_IV", "source": "DVACT_SEC_19", "target": "DVACT_CHAP_IV", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_IV_HAS_20", "source": "DVACT_CHAP_IV", "target": "DVACT_SEC_20", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_20_IN_CHAP_IV", "source": "DVACT_SEC_20", "target": "DVACT_CHAP_IV", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_IV_HAS_21", "source": "DVACT_CHAP_IV", "target": "DVACT_SEC_21", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_21_IN_CHAP_IV", "source": "DVACT_SEC_21", "target": "DVACT_CHAP_IV", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_IV_HAS_22", "source": "DVACT_CHAP_IV", "target": "DVACT_SEC_22", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_22_IN_CHAP_IV", "source": "DVACT_SEC_22", "target": "DVACT_CHAP_IV", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_IV_HAS_23", "source": "DVACT_CHAP_IV", "target": "DVACT_SEC_23", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_23_IN_CHAP_IV", "source": "DVACT_SEC_23", "target": "DVACT_CHAP_IV", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_IV_HAS_24", "source": "DVACT_CHAP_IV", "target": "DVACT_SEC_24", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_24_IN_CHAP_IV", "source": "DVACT_SEC_24", "target": "DVACT_CHAP_IV", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_IV_HAS_25", "source": "DVACT_CHAP_IV", "target": "DVACT_SEC_25", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_25_IN_CHAP_IV", "source": "DVACT_SEC_25", "target": "DVACT_CHAP_IV", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_IV_HAS_26", "source": "DVACT_CHAP_IV", "target": "DVACT_SEC_26", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_26_IN_CHAP_IV", "source": "DVACT_SEC_26", "target": "DVACT_CHAP_IV", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_IV_HAS_27", "source": "DVACT_CHAP_IV", "target": "DVACT_SEC_27", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_27_IN_CHAP_IV", "source": "DVACT_SEC_27", "target": "DVACT_CHAP_IV", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_IV_HAS_28", "source": "DVACT_CHAP_IV", "target": "DVACT_SEC_28", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_28_IN_CHAP_IV", "source": "DVACT_SEC_28", "target": "DVACT_CHAP_IV", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_IV_HAS_29", "source": "DVACT_CHAP_IV", "target": "DVACT_SEC_29", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_29_IN_CHAP_IV", "source": "DVACT_SEC_29", "target": "DVACT_CHAP_IV", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_V_HAS_30", "source": "DVACT_CHAP_V", "target": "DVACT_SEC_30", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_30_IN_CHAP_V", "source": "DVACT_SEC_30", "target": "DVACT_CHAP_V", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_V_HAS_31", "source": "DVACT_CHAP_V", "target": "DVACT_SEC_31", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_31_IN_CHAP_V", "source": "DVACT_SEC_31", "target": "DVACT_CHAP_V", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_V_HAS_32", "source": "DVACT_CHAP_V", "target": "DVACT_SEC_32", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_32_IN_CHAP_V", "source": "DVACT_SEC_32", "target": "DVACT_CHAP_V", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_V_HAS_33", "source": "DVACT_CHAP_V", "target": "DVACT_SEC_33", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_33_IN_CHAP_V", "source": "DVACT_SEC_33", "target": "DVACT_CHAP_V", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_V_HAS_34", "source": "DVACT_CHAP_V", "target": "DVACT_SEC_34", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_34_IN_CHAP_V", "source": "DVACT_SEC_34", "target": "DVACT_CHAP_V", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_V_HAS_35", "source": "DVACT_CHAP_V", "target": "DVACT_SEC_35", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_35_IN_CHAP_V", "source": "DVACT_SEC_35", "target": "DVACT_CHAP_V", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_V_HAS_36", "source": "DVACT_CHAP_V", "target": "DVACT_SEC_36", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_36_IN_CHAP_V", "source": "DVACT_SEC_36", "target": "DVACT_CHAP_V", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_V_HAS_37", "source": "DVACT_CHAP_V", "target": "DVACT_SEC_37", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_37_IN_CHAP_V", "source": "DVACT_SEC_37", "target": "DVACT_CHAP_V", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "REF_2_TO_3", "source": "DVACT_SEC_2", "target": "DVACT_SEC_3", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_2_TO_8", "source": "DVACT_SEC_2", "target": "DVACT_SEC_8", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_2_TO_10", "source": "DVACT_SEC_2", "target": "DVACT_SEC_10", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_2_TO_18", "source": "DVACT_SEC_2", "target": "DVACT_SEC_18", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_2_TO_19", "source": "DVACT_SEC_2", "target": "DVACT_SEC_19", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_2_TO_21", "source": "DVACT_SEC_2", "target": "DVACT_SEC_21", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_2_TO_22", "source": "DVACT_SEC_2", "target": "DVACT_SEC_22", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_3_TO_2", "source": "DVACT_SEC_3", "target": "DVACT_SEC_2", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_3_TO_18", "source": "DVACT_SEC_3", "target": "DVACT_SEC_18", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_3_TO_31", "source": "DVACT_SEC_3", "target": "DVACT_SEC_31", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_4_TO_8", "source": "DVACT_SEC_4", "target": "DVACT_SEC_8", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_4_TO_9", "source": "DVACT_SEC_4", "target": "DVACT_SEC_9", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_5_TO_8", "source": "DVACT_SEC_5", "target": "DVACT_SEC_8", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_5_TO_9", "source": "DVACT_SEC_5", "target": "DVACT_SEC_9", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_5_TO_10", "source": "DVACT_SEC_5", "target": "DVACT_SEC_10", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_5_TO_12", "source": "DVACT_SEC_5", "target": "DVACT_SEC_12", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_5_TO_18", "source": "DVACT_SEC_5", "target": "DVACT_SEC_18", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_5_TO_19", "source": "DVACT_SEC_5", "target": "DVACT_SEC_19", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_5_TO_20", "source": "DVACT_SEC_5", "target": "DVACT_SEC_20", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_5_TO_21", "source": "DVACT_SEC_5", "target": "DVACT_SEC_21", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_5_TO_22", "source": "DVACT_SEC_5", "target": "DVACT_SEC_22", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_6_TO_2", "source": "DVACT_SEC_6", "target": "DVACT_SEC_2", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_6_TO_9", "source": "DVACT_SEC_6", "target": "DVACT_SEC_9", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_6_TO_10", "source": "DVACT_SEC_6", "target": "DVACT_SEC_10", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_7_TO_2", "source": "DVACT_SEC_7", "target": "DVACT_SEC_2", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_7_TO_9", "source": "DVACT_SEC_7", "target": "DVACT_SEC_9", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_7_TO_10", "source": "DVACT_SEC_7", "target": "DVACT_SEC_10", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_8_TO_9", "source": "DVACT_SEC_8", "target": "DVACT_SEC_9", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_8_TO_33", "source": "DVACT_SEC_8", "target": "DVACT_SEC_33", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_8_TO_34", "source": "DVACT_SEC_8", "target": "DVACT_SEC_34", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_9_TO_8", "source": "DVACT_SEC_9", "target": "DVACT_SEC_8", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_9_TO_12", "source": "DVACT_SEC_9", "target": "DVACT_SEC_12", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_9_TO_18", "source": "DVACT_SEC_9", "target": "DVACT_SEC_18", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_9_TO_20", "source": "DVACT_SEC_9", "target": "DVACT_SEC_20", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_9_TO_33", "source": "DVACT_SEC_9", "target": "DVACT_SEC_33", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_10_TO_2", "source": "DVACT_SEC_10", "target": "DVACT_SEC_2", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_10_TO_5", "source": "DVACT_SEC_10", "target": "DVACT_SEC_5", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_10_TO_9", "source": "DVACT_SEC_10", "target": "DVACT_SEC_9", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_12_TO_9", "source": "DVACT_SEC_12", "target": "DVACT_SEC_9", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_12_TO_13", "source": "DVACT_SEC_12", "target": "DVACT_SEC_13", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_12_TO_14", "source": "DVACT_SEC_12", "target": "DVACT_SEC_14", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_12_TO_18", "source": "DVACT_SEC_12", "target": "DVACT_SEC_18", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_12_TO_19", "source": "DVACT_SEC_12", "target": "DVACT_SEC_19", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_12_TO_20", "source": "DVACT_SEC_12", "target": "DVACT_SEC_20", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_12_TO_21", "source": "DVACT_SEC_12", "target": "DVACT_SEC_21", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_12_TO_22", "source": "DVACT_SEC_12", "target": "DVACT_SEC_22", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_12_TO_23", "source": "DVACT_SEC_12", "target": "DVACT_SEC_23", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_13_TO_12", "source": "DVACT_SEC_13", "target": "DVACT_SEC_12", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_14_TO_12", "source": "DVACT_SEC_14", "target": "DVACT_SEC_12", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_14_TO_15", "source": "DVACT_SEC_14", "target": "DVACT_SEC_15", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_15_TO_12", "source": "DVACT_SEC_15", "target": "DVACT_SEC_12", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_15_TO_14", "source": "DVACT_SEC_15", "target": "DVACT_SEC_14", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_16_TO_12", "source": "DVACT_SEC_16", "target": "DVACT_SEC_12", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_17_TO_2", "source": "DVACT_SEC_17", "target": "DVACT_SEC_2", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_17_TO_18", "source": "DVACT_SEC_17", "target": "DVACT_SEC_18", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_17_TO_19", "source": "DVACT_SEC_17", "target": "DVACT_SEC_19", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_18_TO_3", "source": "DVACT_SEC_18", "target": "DVACT_SEC_3", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_18_TO_12", "source": "DVACT_SEC_18", "target": "DVACT_SEC_12", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_18_TO_19", "source": "DVACT_SEC_18", "target": "DVACT_SEC_19", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_18_TO_20", "source": "DVACT_SEC_18", "target": "DVACT_SEC_20", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_18_TO_21", "source": "DVACT_SEC_18", "target": "DVACT_SEC_21", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_18_TO_22", "source": "DVACT_SEC_18", "target": "DVACT_SEC_22", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_18_TO_23", "source": "DVACT_SEC_18", "target": "DVACT_SEC_23", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_18_TO_25", "source": "DVACT_SEC_18", "target": "DVACT_SEC_25", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_18_TO_31", "source": "DVACT_SEC_18", "target": "DVACT_SEC_31", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_19_TO_2", "source": "DVACT_SEC_19", "target": "DVACT_SEC_2", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_19_TO_12", "source": "DVACT_SEC_19", "target": "DVACT_SEC_12", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_19_TO_17", "source": "DVACT_SEC_19", "target": "DVACT_SEC_17", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_19_TO_18", "source": "DVACT_SEC_19", "target": "DVACT_SEC_18", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_19_TO_20", "source": "DVACT_SEC_19", "target": "DVACT_SEC_20", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_19_TO_23", "source": "DVACT_SEC_19", "target": "DVACT_SEC_23", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_19_TO_25", "source": "DVACT_SEC_19", "target": "DVACT_SEC_25", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_20_TO_12", "source": "DVACT_SEC_20", "target": "DVACT_SEC_12", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_20_TO_18", "source": "DVACT_SEC_20", "target": "DVACT_SEC_18", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_20_TO_19", "source": "DVACT_SEC_20", "target": "DVACT_SEC_19", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_20_TO_21", "source": "DVACT_SEC_20", "target": "DVACT_SEC_21", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_20_TO_22", "source": "DVACT_SEC_20", "target": "DVACT_SEC_22", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_20_TO_23", "source": "DVACT_SEC_20", "target": "DVACT_SEC_23", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_20_TO_9", "source": "DVACT_SEC_20", "target": "DVACT_SEC_9", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_21_TO_12", "source": "DVACT_SEC_21", "target": "DVACT_SEC_12", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_21_TO_18", "source": "DVACT_SEC_21", "target": "DVACT_SEC_18", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_21_TO_20", "source": "DVACT_SEC_21", "target": "DVACT_SEC_20", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_21_TO_23", "source": "DVACT_SEC_21", "target": "DVACT_SEC_23", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_22_TO_12", "source": "DVACT_SEC_22", "target": "DVACT_SEC_12", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_22_TO_18", "source": "DVACT_SEC_22", "target": "DVACT_SEC_18", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_22_TO_19", "source": "DVACT_SEC_22", "target": "DVACT_SEC_19", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_22_TO_20", "source": "DVACT_SEC_22", "target": "DVACT_SEC_20", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_22_TO_21", "source": "DVACT_SEC_22", "target": "DVACT_SEC_21", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_22_TO_23", "source": "DVACT_SEC_22", "target": "DVACT_SEC_23", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_23_TO_12", "source": "DVACT_SEC_23", "target": "DVACT_SEC_12", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_23_TO_18", "source": "DVACT_SEC_23", "target": "DVACT_SEC_18", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_23_TO_19", "source": "DVACT_SEC_23", "target": "DVACT_SEC_19", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_23_TO_20", "source": "DVACT_SEC_23", "target": "DVACT_SEC_20", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_23_TO_21", "source": "DVACT_SEC_23", "target": "DVACT_SEC_21", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_23_TO_22", "source": "DVACT_SEC_23", "target": "DVACT_SEC_22", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_24_TO_18", "source": "DVACT_SEC_24", "target": "DVACT_SEC_18", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_24_TO_19", "source": "DVACT_SEC_24", "target": "DVACT_SEC_19", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_24_TO_20", "source": "DVACT_SEC_24", "target": "DVACT_SEC_20", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_24_TO_21", "source": "DVACT_SEC_24", "target": "DVACT_SEC_21", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_24_TO_22", "source": "DVACT_SEC_24", "target": "DVACT_SEC_22", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_25_TO_18", "source": "DVACT_SEC_25", "target": "DVACT_SEC_18", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_25_TO_19", "source": "DVACT_SEC_25", "target": "DVACT_SEC_19", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_26_TO_18", "source": "DVACT_SEC_26", "target": "DVACT_SEC_18", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_26_TO_19", "source": "DVACT_SEC_26", "target": "DVACT_SEC_19", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_26_TO_20", "source": "DVACT_SEC_26", "target": "DVACT_SEC_20", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_26_TO_21", "source": "DVACT_SEC_26", "target": "DVACT_SEC_21", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_26_TO_22", "source": "DVACT_SEC_26", "target": "DVACT_SEC_22", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_27_TO_12", "source": "DVACT_SEC_27", "target": "DVACT_SEC_12", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_27_TO_18", "source": "DVACT_SEC_27", "target": "DVACT_SEC_18", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_28_TO_12", "source": "DVACT_SEC_28", "target": "DVACT_SEC_12", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_28_TO_18", "source": "DVACT_SEC_28", "target": "DVACT_SEC_18", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_28_TO_19", "source": "DVACT_SEC_28", "target": "DVACT_SEC_19", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_28_TO_20", "source": "DVACT_SEC_28", "target": "DVACT_SEC_20", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_28_TO_21", "source": "DVACT_SEC_28", "target": "DVACT_SEC_21", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_28_TO_22", "source": "DVACT_SEC_28", "target": "DVACT_SEC_22", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_28_TO_23", "source": "DVACT_SEC_28", "target": "DVACT_SEC_23", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_28_TO_31", "source": "DVACT_SEC_28", "target": "DVACT_SEC_31", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_29_TO_12", "source": "DVACT_SEC_29", "target": "DVACT_SEC_12", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_29_TO_18", "source": "DVACT_SEC_29", "target": "DVACT_SEC_18", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_30_TO_8", "source": "DVACT_SEC_30", "target": "DVACT_SEC_8", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_30_TO_9", "source": "DVACT_SEC_30", "target": "DVACT_SEC_9", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_30_TO_10", "source": "DVACT_SEC_30", "target": "DVACT_SEC_10", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_30_TO_33", "source": "DVACT_SEC_30", "target": "DVACT_SEC_33", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_30_TO_34", "source": "DVACT_SEC_30", "target": "DVACT_SEC_34", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_31_TO_18", "source": "DVACT_SEC_31", "target": "DVACT_SEC_18", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_31_TO_23", "source": "DVACT_SEC_31", "target": "DVACT_SEC_23", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_31_TO_32", "source": "DVACT_SEC_31", "target": "DVACT_SEC_32", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_31_TO_33", "source": "DVACT_SEC_31", "target": "DVACT_SEC_33", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_32_TO_31", "source": "DVACT_SEC_32", "target": "DVACT_SEC_31", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_33_TO_8", "source": "DVACT_SEC_33", "target": "DVACT_SEC_8", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_33_TO_9", "source": "DVACT_SEC_33", "target": "DVACT_SEC_9", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_33_TO_34", "source": "DVACT_SEC_33", "target": "DVACT_SEC_34", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_34_TO_33", "source": "DVACT_SEC_34", "target": "DVACT_SEC_33", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_35_TO_8", "source": "DVACT_SEC_35", "target": "DVACT_SEC_8", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_35_TO_9", "source": "DVACT_SEC_35", "target": "DVACT_SEC_9", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_35_TO_30", "source": "DVACT_SEC_35", "target": "DVACT_SEC_30", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_36_TO_31", "source": "DVACT_SEC_36", "target": "DVACT_SEC_31", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_37_TO_8", "source": "DVACT_SEC_37", "target": "DVACT_SEC_8", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_37_TO_9", "source": "DVACT_SEC_37", "target": "DVACT_SEC_9", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_37_TO_10", "source": "DVACT_SEC_37", "target": "DVACT_SEC_10", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_37_TO_12", "source": "DVACT_SEC_37", "target": "DVACT_SEC_12", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_37_TO_13", "source": "DVACT_SEC_37", "target": "DVACT_SEC_13", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_37_TO_14", "source": "DVACT_SEC_37", "target": "DVACT_SEC_14", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_37_TO_23", "source": "DVACT_SEC_37", "target": "DVACT_SEC_23", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "CONCEPT_DOMESTIC_VIOLENCE_DEF_COVERS_3", "source": "CONCEPT_DOMESTIC_VIOLENCE_DEF", "target": "DVACT_SEC_3", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_DOMESTIC_VIOLENCE_DEF_COVERS_2", "source": "CONCEPT_DOMESTIC_VIOLENCE_DEF", "target": "DVACT_SEC_2", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_PROTECTION_ORDER_COVERS_18", "source": "CONCEPT_PROTECTION_ORDER", "target": "DVACT_SEC_18", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_PROTECTION_ORDER_COVERS_23", "source": "CONCEPT_PROTECTION_ORDER", "target": "DVACT_SEC_23", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_PROTECTION_ORDER_COVERS_25", "source": "CONCEPT_PROTECTION_ORDER", "target": "DVACT_SEC_25", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_PROTECTION_ORDER_COVERS_31", "source": "CONCEPT_PROTECTION_ORDER", "target": "DVACT_SEC_31", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_PROTECTION_ORDER_COVERS_32", "source": "CONCEPT_PROTECTION_ORDER", "target": "DVACT_SEC_32", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_RESIDENCE_ORDER_COVERS_17", "source": "CONCEPT_RESIDENCE_ORDER", "target": "DVACT_SEC_17", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_RESIDENCE_ORDER_COVERS_19", "source": "CONCEPT_RESIDENCE_ORDER", "target": "DVACT_SEC_19", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_MONETARY_MAINTENANCE_COVERS_20", "source": "CONCEPT_MONETARY_MAINTENANCE", "target": "DVACT_SEC_20", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_MONETARY_MAINTENANCE_COVERS_22", "source": "CONCEPT_MONETARY_MAINTENANCE", "target": "DVACT_SEC_22", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_CUSTODY_COVERS_21", "source": "CONCEPT_CUSTODY", "target": "DVACT_SEC_21", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_PROTECTION_OFFICER_COVERS_4", "source": "CONCEPT_PROTECTION_OFFICER", "target": "DVACT_SEC_4", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_PROTECTION_OFFICER_COVERS_5", "source": "CONCEPT_PROTECTION_OFFICER", "target": "DVACT_SEC_5", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_PROTECTION_OFFICER_COVERS_6", "source": "CONCEPT_PROTECTION_OFFICER", "target": "DVACT_SEC_6", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_PROTECTION_OFFICER_COVERS_7", "source": "CONCEPT_PROTECTION_OFFICER", "target": "DVACT_SEC_7", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_PROTECTION_OFFICER_COVERS_8", "source": "CONCEPT_PROTECTION_OFFICER", "target": "DVACT_SEC_8", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_PROTECTION_OFFICER_COVERS_9", "source": "CONCEPT_PROTECTION_OFFICER", "target": "DVACT_SEC_9", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_PROTECTION_OFFICER_COVERS_10", "source": "CONCEPT_PROTECTION_OFFICER", "target": "DVACT_SEC_10", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_PROTECTION_OFFICER_COVERS_11", "source": "CONCEPT_PROTECTION_OFFICER", "target": "DVACT_SEC_11", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_PROTECTION_OFFICER_COVERS_30", "source": "CONCEPT_PROTECTION_OFFICER", "target": "DVACT_SEC_30", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_PROTECTION_OFFICER_COVERS_33", "source": "CONCEPT_PROTECTION_OFFICER", "target": "DVACT_SEC_33", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_PROTECTION_OFFICER_COVERS_34", "source": "CONCEPT_PROTECTION_OFFICER", "target": "DVACT_SEC_34", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_PROTECTION_OFFICER_COVERS_35", "source": "CONCEPT_PROTECTION_OFFICER", "target": "DVACT_SEC_35", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_PROCEDURE_RELIEFS_COVERS_12", "source": "CONCEPT_PROCEDURE_RELIEFS", "target": "DVACT_SEC_12", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_PROCEDURE_RELIEFS_COVERS_13", "source": "CONCEPT_PROCEDURE_RELIEFS", "target": "DVACT_SEC_13", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_PROCEDURE_RELIEFS_COVERS_14", "source": "CONCEPT_PROCEDURE_RELIEFS", "target": "DVACT_SEC_14", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_PROCEDURE_RELIEFS_COVERS_15", "source": "CONCEPT_PROCEDURE_RELIEFS", "target": "DVACT_SEC_15", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_PROCEDURE_RELIEFS_COVERS_16", "source": "CONCEPT_PROCEDURE_RELIEFS", "target": "DVACT_SEC_16", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_PROCEDURE_RELIEFS_COVERS_23", "source": "CONCEPT_PROCEDURE_RELIEFS", "target": "DVACT_SEC_23", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_PROCEDURE_RELIEFS_COVERS_24", "source": "CONCEPT_PROCEDURE_RELIEFS", "target": "DVACT_SEC_24", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_PROCEDURE_RELIEFS_COVERS_25", "source": "CONCEPT_PROCEDURE_RELIEFS", "target": "DVACT_SEC_25", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_PROCEDURE_RELIEFS_COVERS_26", "source": "CONCEPT_PROCEDURE_RELIEFS", "target": "DVACT_SEC_26", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_PROCEDURE_RELIEFS_COVERS_27", "source": "CONCEPT_PROCEDURE_RELIEFS", "target": "DVACT_SEC_27", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_PROCEDURE_RELIEFS_COVERS_28", "source": "CONCEPT_PROCEDURE_RELIEFS", "target": "DVACT_SEC_28", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_PROCEDURE_RELIEFS_COVERS_29", "source": "CONCEPT_PROCEDURE_RELIEFS", "target": "DVACT_SEC_29", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_STRIDHAN_COVERS_18", "source": "CONCEPT_STRIDHAN", "target": "DVACT_SEC_18", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_STRIDHAN_COVERS_19", "source": "CONCEPT_STRIDHAN", "target": "DVACT_SEC_19", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_ECONOMIC_ABUSE_COVERS_3", "source": "CONCEPT_ECONOMIC_ABUSE", "target": "DVACT_SEC_3", "relation": "COVERS_SECTION", "properties": {}}

@@ -1,0 +1,119 @@
+{"edge_id": "DOC_HAS_CHAP_I", "source": "ORRC_DOC", "target": "ORRC_CHAP_I", "relation": "HAS_CHAPTER", "properties": {}}
+{"edge_id": "DOC_HAS_CHAP_II", "source": "ORRC_DOC", "target": "ORRC_CHAP_II", "relation": "HAS_CHAPTER", "properties": {}}
+{"edge_id": "DOC_HAS_CHAP_III", "source": "ORRC_DOC", "target": "ORRC_CHAP_III", "relation": "HAS_CHAPTER", "properties": {}}
+{"edge_id": "DOC_HAS_CHAP_IV", "source": "ORRC_DOC", "target": "ORRC_CHAP_IV", "relation": "HAS_CHAPTER", "properties": {}}
+{"edge_id": "DOC_HAS_CHAP_V", "source": "ORRC_DOC", "target": "ORRC_CHAP_V", "relation": "HAS_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_I_HAS_1", "source": "ORRC_CHAP_I", "target": "ORRC_SEC_1", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_1_IN_CHAP_I", "source": "ORRC_SEC_1", "target": "ORRC_CHAP_I", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_I_HAS_2", "source": "ORRC_CHAP_I", "target": "ORRC_SEC_2", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_2_IN_CHAP_I", "source": "ORRC_SEC_2", "target": "ORRC_CHAP_I", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_II_HAS_3", "source": "ORRC_CHAP_II", "target": "ORRC_SEC_3", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_3_IN_CHAP_II", "source": "ORRC_SEC_3", "target": "ORRC_CHAP_II", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_II_HAS_4", "source": "ORRC_CHAP_II", "target": "ORRC_SEC_4", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_4_IN_CHAP_II", "source": "ORRC_SEC_4", "target": "ORRC_CHAP_II", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_II_HAS_5", "source": "ORRC_CHAP_II", "target": "ORRC_SEC_5", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_5_IN_CHAP_II", "source": "ORRC_SEC_5", "target": "ORRC_CHAP_II", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_III_HAS_6", "source": "ORRC_CHAP_III", "target": "ORRC_SEC_6", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_6_IN_CHAP_III", "source": "ORRC_SEC_6", "target": "ORRC_CHAP_III", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_III_HAS_7", "source": "ORRC_CHAP_III", "target": "ORRC_SEC_7", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_7_IN_CHAP_III", "source": "ORRC_SEC_7", "target": "ORRC_CHAP_III", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_II_HAS_8", "source": "ORRC_CHAP_II", "target": "ORRC_SEC_8", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_8_IN_CHAP_II", "source": "ORRC_SEC_8", "target": "ORRC_CHAP_II", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_II_HAS_9", "source": "ORRC_CHAP_II", "target": "ORRC_SEC_9", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_9_IN_CHAP_II", "source": "ORRC_SEC_9", "target": "ORRC_CHAP_II", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_III_HAS_10", "source": "ORRC_CHAP_III", "target": "ORRC_SEC_10", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_10_IN_CHAP_III", "source": "ORRC_SEC_10", "target": "ORRC_CHAP_III", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_III_HAS_11", "source": "ORRC_CHAP_III", "target": "ORRC_SEC_11", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_11_IN_CHAP_III", "source": "ORRC_SEC_11", "target": "ORRC_CHAP_III", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_IV_HAS_12", "source": "ORRC_CHAP_IV", "target": "ORRC_SEC_12", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_12_IN_CHAP_IV", "source": "ORRC_SEC_12", "target": "ORRC_CHAP_IV", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_IV_HAS_13", "source": "ORRC_CHAP_IV", "target": "ORRC_SEC_13", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_13_IN_CHAP_IV", "source": "ORRC_SEC_13", "target": "ORRC_CHAP_IV", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_IV_HAS_14", "source": "ORRC_CHAP_IV", "target": "ORRC_SEC_14", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_14_IN_CHAP_IV", "source": "ORRC_SEC_14", "target": "ORRC_CHAP_IV", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_IV_HAS_15", "source": "ORRC_CHAP_IV", "target": "ORRC_SEC_15", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_15_IN_CHAP_IV", "source": "ORRC_SEC_15", "target": "ORRC_CHAP_IV", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_IV_HAS_16", "source": "ORRC_CHAP_IV", "target": "ORRC_SEC_16", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_16_IN_CHAP_IV", "source": "ORRC_SEC_16", "target": "ORRC_CHAP_IV", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_V_HAS_17", "source": "ORRC_CHAP_V", "target": "ORRC_SEC_17", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_17_IN_CHAP_V", "source": "ORRC_SEC_17", "target": "ORRC_CHAP_V", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_V_HAS_18", "source": "ORRC_CHAP_V", "target": "ORRC_SEC_18", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_18_IN_CHAP_V", "source": "ORRC_SEC_18", "target": "ORRC_CHAP_V", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_V_HAS_19", "source": "ORRC_CHAP_V", "target": "ORRC_SEC_19", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_19_IN_CHAP_V", "source": "ORRC_SEC_19", "target": "ORRC_CHAP_V", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_V_HAS_20", "source": "ORRC_CHAP_V", "target": "ORRC_SEC_20", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_20_IN_CHAP_V", "source": "ORRC_SEC_20", "target": "ORRC_CHAP_V", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_V_HAS_21", "source": "ORRC_CHAP_V", "target": "ORRC_SEC_21", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_21_IN_CHAP_V", "source": "ORRC_SEC_21", "target": "ORRC_CHAP_V", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_V_HAS_22", "source": "ORRC_CHAP_V", "target": "ORRC_SEC_22", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_22_IN_CHAP_V", "source": "ORRC_SEC_22", "target": "ORRC_CHAP_V", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "REF_1_TO_17", "source": "ORRC_SEC_1", "target": "ORRC_SEC_17", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_1_TO_18", "source": "ORRC_SEC_1", "target": "ORRC_SEC_18", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_2_TO_5", "source": "ORRC_SEC_2", "target": "ORRC_SEC_5", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_2_TO_7", "source": "ORRC_SEC_2", "target": "ORRC_SEC_7", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_3_TO_4", "source": "ORRC_SEC_3", "target": "ORRC_SEC_4", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_3_TO_17", "source": "ORRC_SEC_3", "target": "ORRC_SEC_17", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_4_TO_2", "source": "ORRC_SEC_4", "target": "ORRC_SEC_2", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_4_TO_5", "source": "ORRC_SEC_4", "target": "ORRC_SEC_5", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_4_TO_8", "source": "ORRC_SEC_4", "target": "ORRC_SEC_8", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_5_TO_2", "source": "ORRC_SEC_5", "target": "ORRC_SEC_2", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_5_TO_4", "source": "ORRC_SEC_5", "target": "ORRC_SEC_4", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_5_TO_8", "source": "ORRC_SEC_5", "target": "ORRC_SEC_8", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_5_TO_9", "source": "ORRC_SEC_5", "target": "ORRC_SEC_9", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_6_TO_7", "source": "ORRC_SEC_6", "target": "ORRC_SEC_7", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_6_TO_11", "source": "ORRC_SEC_6", "target": "ORRC_SEC_11", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_7_TO_6", "source": "ORRC_SEC_7", "target": "ORRC_SEC_6", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_7_TO_11", "source": "ORRC_SEC_7", "target": "ORRC_SEC_11", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_7_TO_12", "source": "ORRC_SEC_7", "target": "ORRC_SEC_12", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_7_TO_15", "source": "ORRC_SEC_7", "target": "ORRC_SEC_15", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_8_TO_5", "source": "ORRC_SEC_8", "target": "ORRC_SEC_5", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_8_TO_4", "source": "ORRC_SEC_8", "target": "ORRC_SEC_4", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_9_TO_5", "source": "ORRC_SEC_9", "target": "ORRC_SEC_5", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_9_TO_4", "source": "ORRC_SEC_9", "target": "ORRC_SEC_4", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_9_TO_8", "source": "ORRC_SEC_9", "target": "ORRC_SEC_8", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_10_TO_7", "source": "ORRC_SEC_10", "target": "ORRC_SEC_7", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_10_TO_12", "source": "ORRC_SEC_10", "target": "ORRC_SEC_12", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_11_TO_6", "source": "ORRC_SEC_11", "target": "ORRC_SEC_6", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_11_TO_7", "source": "ORRC_SEC_11", "target": "ORRC_SEC_7", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_12_TO_13", "source": "ORRC_SEC_12", "target": "ORRC_SEC_13", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_12_TO_14", "source": "ORRC_SEC_12", "target": "ORRC_SEC_14", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_13_TO_12", "source": "ORRC_SEC_13", "target": "ORRC_SEC_12", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_13_TO_14", "source": "ORRC_SEC_13", "target": "ORRC_SEC_14", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_14_TO_12", "source": "ORRC_SEC_14", "target": "ORRC_SEC_12", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_14_TO_13", "source": "ORRC_SEC_14", "target": "ORRC_SEC_13", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_15_TO_7", "source": "ORRC_SEC_15", "target": "ORRC_SEC_7", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_15_TO_16", "source": "ORRC_SEC_15", "target": "ORRC_SEC_16", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_16_TO_7", "source": "ORRC_SEC_16", "target": "ORRC_SEC_7", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_16_TO_15", "source": "ORRC_SEC_16", "target": "ORRC_SEC_15", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_17_TO_18", "source": "ORRC_SEC_17", "target": "ORRC_SEC_18", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_18_TO_17", "source": "ORRC_SEC_18", "target": "ORRC_SEC_17", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_22_TO_1", "source": "ORRC_SEC_22", "target": "ORRC_SEC_1", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_22_TO_13", "source": "ORRC_SEC_22", "target": "ORRC_SEC_13", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "CONCEPT_FAIR_RENT_COVERS_2", "source": "CONCEPT_FAIR_RENT", "target": "ORRC_SEC_2", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_FAIR_RENT_COVERS_4", "source": "CONCEPT_FAIR_RENT", "target": "ORRC_SEC_4", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_FAIR_RENT_COVERS_5", "source": "CONCEPT_FAIR_RENT", "target": "ORRC_SEC_5", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_FAIR_RENT_COVERS_8", "source": "CONCEPT_FAIR_RENT", "target": "ORRC_SEC_8", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_FAIR_RENT_COVERS_9", "source": "CONCEPT_FAIR_RENT", "target": "ORRC_SEC_9", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_EVICTION_COVERS_6", "source": "CONCEPT_EVICTION", "target": "ORRC_SEC_6", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_EVICTION_COVERS_7", "source": "CONCEPT_EVICTION", "target": "ORRC_SEC_7", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_EVICTION_COVERS_11", "source": "CONCEPT_EVICTION", "target": "ORRC_SEC_11", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_EVICTION_COVERS_15", "source": "CONCEPT_EVICTION", "target": "ORRC_SEC_15", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_EVICTION_COVERS_16", "source": "CONCEPT_EVICTION", "target": "ORRC_SEC_16", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_TENANT_RIGHTS_COVERS_3", "source": "CONCEPT_TENANT_RIGHTS", "target": "ORRC_SEC_3", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_TENANT_RIGHTS_COVERS_4", "source": "CONCEPT_TENANT_RIGHTS", "target": "ORRC_SEC_4", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_TENANT_RIGHTS_COVERS_6", "source": "CONCEPT_TENANT_RIGHTS", "target": "ORRC_SEC_6", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_TENANT_RIGHTS_COVERS_7", "source": "CONCEPT_TENANT_RIGHTS", "target": "ORRC_SEC_7", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_TENANT_RIGHTS_COVERS_8", "source": "CONCEPT_TENANT_RIGHTS", "target": "ORRC_SEC_8", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_TENANT_RIGHTS_COVERS_10", "source": "CONCEPT_TENANT_RIGHTS", "target": "ORRC_SEC_10", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_TENANT_RIGHTS_COVERS_11", "source": "CONCEPT_TENANT_RIGHTS", "target": "ORRC_SEC_11", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_TENANT_RIGHTS_COVERS_16", "source": "CONCEPT_TENANT_RIGHTS", "target": "ORRC_SEC_16", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_REPAIRS_COVERS_10", "source": "CONCEPT_REPAIRS", "target": "ORRC_SEC_10", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_CONTROLLER_PROCEDURE_COVERS_5", "source": "CONCEPT_CONTROLLER_PROCEDURE", "target": "ORRC_SEC_5", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_CONTROLLER_PROCEDURE_COVERS_7", "source": "CONCEPT_CONTROLLER_PROCEDURE", "target": "ORRC_SEC_7", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_CONTROLLER_PROCEDURE_COVERS_9", "source": "CONCEPT_CONTROLLER_PROCEDURE", "target": "ORRC_SEC_9", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_CONTROLLER_PROCEDURE_COVERS_10", "source": "CONCEPT_CONTROLLER_PROCEDURE", "target": "ORRC_SEC_10", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_CONTROLLER_PROCEDURE_COVERS_12", "source": "CONCEPT_CONTROLLER_PROCEDURE", "target": "ORRC_SEC_12", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_CONTROLLER_PROCEDURE_COVERS_13", "source": "CONCEPT_CONTROLLER_PROCEDURE", "target": "ORRC_SEC_13", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_CONTROLLER_PROCEDURE_COVERS_14", "source": "CONCEPT_CONTROLLER_PROCEDURE", "target": "ORRC_SEC_14", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_CONTROLLER_PROCEDURE_COVERS_15", "source": "CONCEPT_CONTROLLER_PROCEDURE", "target": "ORRC_SEC_15", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_SALAMI_PREMIUM_COVERS_3", "source": "CONCEPT_SALAMI_PREMIUM", "target": "ORRC_SEC_3", "relation": "COVERS_SECTION", "properties": {}}

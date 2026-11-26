@@ -1,0 +1,32 @@
+{"edge_id": "DOC_HAS_CHAP_I", "source": "MPL_DOC", "target": "MPL_CHAP_I", "relation": "HAS_CHAPTER", "properties": {}}
+{"edge_id": "DOC_HAS_CHAP_II", "source": "MPL_DOC", "target": "MPL_CHAP_II", "relation": "HAS_CHAPTER", "properties": {}}
+{"edge_id": "DOC_HAS_CHAP_III", "source": "MPL_DOC", "target": "MPL_CHAP_III", "relation": "HAS_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_I_HAS_1", "source": "MPL_CHAP_I", "target": "MPL_SEC_1", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_1_IN_CHAP_I", "source": "MPL_SEC_1", "target": "MPL_CHAP_I", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_I_HAS_2", "source": "MPL_CHAP_I", "target": "MPL_SEC_2", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_2_IN_CHAP_I", "source": "MPL_SEC_2", "target": "MPL_CHAP_I", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_II_HAS_3", "source": "MPL_CHAP_II", "target": "MPL_SEC_3", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_3_IN_CHAP_II", "source": "MPL_SEC_3", "target": "MPL_CHAP_II", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_II_HAS_4", "source": "MPL_CHAP_II", "target": "MPL_SEC_4", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_4_IN_CHAP_II", "source": "MPL_SEC_4", "target": "MPL_CHAP_II", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_II_HAS_5", "source": "MPL_CHAP_II", "target": "MPL_SEC_5", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_5_IN_CHAP_II", "source": "MPL_SEC_5", "target": "MPL_CHAP_II", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_III_HAS_6", "source": "MPL_CHAP_III", "target": "MPL_SEC_6", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_6_IN_CHAP_III", "source": "MPL_SEC_6", "target": "MPL_CHAP_III", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "REF_1_TO_2", "source": "MPL_SEC_1", "target": "MPL_SEC_2", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_2_TO_3", "source": "MPL_SEC_2", "target": "MPL_SEC_3", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_3_TO_2", "source": "MPL_SEC_3", "target": "MPL_SEC_2", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_3_TO_4", "source": "MPL_SEC_3", "target": "MPL_SEC_4", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_4_TO_3", "source": "MPL_SEC_4", "target": "MPL_SEC_3", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_5_TO_2", "source": "MPL_SEC_5", "target": "MPL_SEC_2", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "CONCEPT_SHARIAT_APPLICATION_COVERS_1", "source": "CONCEPT_SHARIAT_APPLICATION", "target": "MPL_SEC_1", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_SHARIAT_APPLICATION_COVERS_2", "source": "CONCEPT_SHARIAT_APPLICATION", "target": "MPL_SEC_2", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_MARRIAGE_DIVORCE_COVERS_2", "source": "CONCEPT_MARRIAGE_DIVORCE", "target": "MPL_SEC_2", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_MARRIAGE_DIVORCE_COVERS_5", "source": "CONCEPT_MARRIAGE_DIVORCE", "target": "MPL_SEC_5", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_INHERITANCE_SUCCESSION_COVERS_2", "source": "CONCEPT_INHERITANCE_SUCCESSION", "target": "MPL_SEC_2", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_INHERITANCE_SUCCESSION_COVERS_3", "source": "CONCEPT_INHERITANCE_SUCCESSION", "target": "MPL_SEC_3", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_MAINTENANCE_DOWER_COVERS_2", "source": "CONCEPT_MAINTENANCE_DOWER", "target": "MPL_SEC_2", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_GUARDIANSHIP_GIFTS_COVERS_2", "source": "CONCEPT_GUARDIANSHIP_GIFTS", "target": "MPL_SEC_2", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_GUARDIANSHIP_GIFTS_COVERS_3", "source": "CONCEPT_GUARDIANSHIP_GIFTS", "target": "MPL_SEC_3", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_MPL_DECLARATION_COVERS_3", "source": "CONCEPT_MPL_DECLARATION", "target": "MPL_SEC_3", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_MPL_DECLARATION_COVERS_4", "source": "CONCEPT_MPL_DECLARATION", "target": "MPL_SEC_4", "relation": "COVERS_SECTION", "properties": {}}

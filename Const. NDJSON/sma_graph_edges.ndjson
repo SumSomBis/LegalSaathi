@@ -1,0 +1,304 @@
+{"edge_id": "DOC_HAS_CHAP_I", "source": "SMA_DOC", "target": "SMA_CHAP_I", "relation": "HAS_CHAPTER", "properties": {}}
+{"edge_id": "DOC_HAS_CHAP_II", "source": "SMA_DOC", "target": "SMA_CHAP_II", "relation": "HAS_CHAPTER", "properties": {}}
+{"edge_id": "DOC_HAS_CHAP_III", "source": "SMA_DOC", "target": "SMA_CHAP_III", "relation": "HAS_CHAPTER", "properties": {}}
+{"edge_id": "DOC_HAS_CHAP_IV", "source": "SMA_DOC", "target": "SMA_CHAP_IV", "relation": "HAS_CHAPTER", "properties": {}}
+{"edge_id": "DOC_HAS_CHAP_V", "source": "SMA_DOC", "target": "SMA_CHAP_V", "relation": "HAS_CHAPTER", "properties": {}}
+{"edge_id": "DOC_HAS_CHAP_VI", "source": "SMA_DOC", "target": "SMA_CHAP_VI", "relation": "HAS_CHAPTER", "properties": {}}
+{"edge_id": "DOC_HAS_CHAP_VII", "source": "SMA_DOC", "target": "SMA_CHAP_VII", "relation": "HAS_CHAPTER", "properties": {}}
+{"edge_id": "DOC_HAS_CHAP_VIII", "source": "SMA_DOC", "target": "SMA_CHAP_VIII", "relation": "HAS_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_I_HAS_1", "source": "SMA_CHAP_I", "target": "SMA_SEC_1", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_1_IN_CHAP_I", "source": "SMA_SEC_1", "target": "SMA_CHAP_I", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_I_HAS_2", "source": "SMA_CHAP_I", "target": "SMA_SEC_2", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_2_IN_CHAP_I", "source": "SMA_SEC_2", "target": "SMA_CHAP_I", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_I_HAS_3", "source": "SMA_CHAP_I", "target": "SMA_SEC_3", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_3_IN_CHAP_I", "source": "SMA_SEC_3", "target": "SMA_CHAP_I", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_II_HAS_4", "source": "SMA_CHAP_II", "target": "SMA_SEC_4", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_4_IN_CHAP_II", "source": "SMA_SEC_4", "target": "SMA_CHAP_II", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_II_HAS_5", "source": "SMA_CHAP_II", "target": "SMA_SEC_5", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_5_IN_CHAP_II", "source": "SMA_SEC_5", "target": "SMA_CHAP_II", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_II_HAS_6", "source": "SMA_CHAP_II", "target": "SMA_SEC_6", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_6_IN_CHAP_II", "source": "SMA_SEC_6", "target": "SMA_CHAP_II", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_II_HAS_7", "source": "SMA_CHAP_II", "target": "SMA_SEC_7", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_7_IN_CHAP_II", "source": "SMA_SEC_7", "target": "SMA_CHAP_II", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_II_HAS_8", "source": "SMA_CHAP_II", "target": "SMA_SEC_8", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_8_IN_CHAP_II", "source": "SMA_SEC_8", "target": "SMA_CHAP_II", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_II_HAS_9", "source": "SMA_CHAP_II", "target": "SMA_SEC_9", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_9_IN_CHAP_II", "source": "SMA_SEC_9", "target": "SMA_CHAP_II", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_II_HAS_10", "source": "SMA_CHAP_II", "target": "SMA_SEC_10", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_10_IN_CHAP_II", "source": "SMA_SEC_10", "target": "SMA_CHAP_II", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_II_HAS_11", "source": "SMA_CHAP_II", "target": "SMA_SEC_11", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_11_IN_CHAP_II", "source": "SMA_SEC_11", "target": "SMA_CHAP_II", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_II_HAS_12", "source": "SMA_CHAP_II", "target": "SMA_SEC_12", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_12_IN_CHAP_II", "source": "SMA_SEC_12", "target": "SMA_CHAP_II", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_II_HAS_13", "source": "SMA_CHAP_II", "target": "SMA_SEC_13", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_13_IN_CHAP_II", "source": "SMA_SEC_13", "target": "SMA_CHAP_II", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_II_HAS_14", "source": "SMA_CHAP_II", "target": "SMA_SEC_14", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_14_IN_CHAP_II", "source": "SMA_SEC_14", "target": "SMA_CHAP_II", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_III_HAS_15", "source": "SMA_CHAP_III", "target": "SMA_SEC_15", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_15_IN_CHAP_III", "source": "SMA_SEC_15", "target": "SMA_CHAP_III", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_III_HAS_16", "source": "SMA_CHAP_III", "target": "SMA_SEC_16", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_16_IN_CHAP_III", "source": "SMA_SEC_16", "target": "SMA_CHAP_III", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_III_HAS_17", "source": "SMA_CHAP_III", "target": "SMA_SEC_17", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_17_IN_CHAP_III", "source": "SMA_SEC_17", "target": "SMA_CHAP_III", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_III_HAS_18", "source": "SMA_CHAP_III", "target": "SMA_SEC_18", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_18_IN_CHAP_III", "source": "SMA_SEC_18", "target": "SMA_CHAP_III", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_IV_HAS_19", "source": "SMA_CHAP_IV", "target": "SMA_SEC_19", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_19_IN_CHAP_IV", "source": "SMA_SEC_19", "target": "SMA_CHAP_IV", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_IV_HAS_20", "source": "SMA_CHAP_IV", "target": "SMA_SEC_20", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_20_IN_CHAP_IV", "source": "SMA_SEC_20", "target": "SMA_CHAP_IV", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_IV_HAS_21", "source": "SMA_CHAP_IV", "target": "SMA_SEC_21", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_21_IN_CHAP_IV", "source": "SMA_SEC_21", "target": "SMA_CHAP_IV", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_IV_HAS_21A", "source": "SMA_CHAP_IV", "target": "SMA_SEC_21A", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_21A_IN_CHAP_IV", "source": "SMA_SEC_21A", "target": "SMA_CHAP_IV", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_V_HAS_22", "source": "SMA_CHAP_V", "target": "SMA_SEC_22", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_22_IN_CHAP_V", "source": "SMA_SEC_22", "target": "SMA_CHAP_V", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_V_HAS_23", "source": "SMA_CHAP_V", "target": "SMA_SEC_23", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_23_IN_CHAP_V", "source": "SMA_SEC_23", "target": "SMA_CHAP_V", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VI_HAS_24", "source": "SMA_CHAP_VI", "target": "SMA_SEC_24", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_24_IN_CHAP_VI", "source": "SMA_SEC_24", "target": "SMA_CHAP_VI", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VI_HAS_25", "source": "SMA_CHAP_VI", "target": "SMA_SEC_25", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_25_IN_CHAP_VI", "source": "SMA_SEC_25", "target": "SMA_CHAP_VI", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VI_HAS_26", "source": "SMA_CHAP_VI", "target": "SMA_SEC_26", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_26_IN_CHAP_VI", "source": "SMA_SEC_26", "target": "SMA_CHAP_VI", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VI_HAS_27", "source": "SMA_CHAP_VI", "target": "SMA_SEC_27", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_27_IN_CHAP_VI", "source": "SMA_SEC_27", "target": "SMA_CHAP_VI", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VI_HAS_27A", "source": "SMA_CHAP_VI", "target": "SMA_SEC_27A", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_27A_IN_CHAP_VI", "source": "SMA_SEC_27A", "target": "SMA_CHAP_VI", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VI_HAS_28", "source": "SMA_CHAP_VI", "target": "SMA_SEC_28", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_28_IN_CHAP_VI", "source": "SMA_SEC_28", "target": "SMA_CHAP_VI", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VI_HAS_29", "source": "SMA_CHAP_VI", "target": "SMA_SEC_29", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_29_IN_CHAP_VI", "source": "SMA_SEC_29", "target": "SMA_CHAP_VI", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VI_HAS_30", "source": "SMA_CHAP_VI", "target": "SMA_SEC_30", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_30_IN_CHAP_VI", "source": "SMA_SEC_30", "target": "SMA_CHAP_VI", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VII_HAS_31", "source": "SMA_CHAP_VII", "target": "SMA_SEC_31", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_31_IN_CHAP_VII", "source": "SMA_SEC_31", "target": "SMA_CHAP_VII", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VII_HAS_32", "source": "SMA_CHAP_VII", "target": "SMA_SEC_32", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_32_IN_CHAP_VII", "source": "SMA_SEC_32", "target": "SMA_CHAP_VII", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VII_HAS_33", "source": "SMA_CHAP_VII", "target": "SMA_SEC_33", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_33_IN_CHAP_VII", "source": "SMA_SEC_33", "target": "SMA_CHAP_VII", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VII_HAS_34", "source": "SMA_CHAP_VII", "target": "SMA_SEC_34", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_34_IN_CHAP_VII", "source": "SMA_SEC_34", "target": "SMA_CHAP_VII", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VII_HAS_35", "source": "SMA_CHAP_VII", "target": "SMA_SEC_35", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_35_IN_CHAP_VII", "source": "SMA_SEC_35", "target": "SMA_CHAP_VII", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VII_HAS_36", "source": "SMA_CHAP_VII", "target": "SMA_SEC_36", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_36_IN_CHAP_VII", "source": "SMA_SEC_36", "target": "SMA_CHAP_VII", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VII_HAS_37", "source": "SMA_CHAP_VII", "target": "SMA_SEC_37", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_37_IN_CHAP_VII", "source": "SMA_SEC_37", "target": "SMA_CHAP_VII", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VII_HAS_38", "source": "SMA_CHAP_VII", "target": "SMA_SEC_38", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_38_IN_CHAP_VII", "source": "SMA_SEC_38", "target": "SMA_CHAP_VII", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VII_HAS_39", "source": "SMA_CHAP_VII", "target": "SMA_SEC_39", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_39_IN_CHAP_VII", "source": "SMA_SEC_39", "target": "SMA_CHAP_VII", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VII_HAS_39A", "source": "SMA_CHAP_VII", "target": "SMA_SEC_39A", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_39A_IN_CHAP_VII", "source": "SMA_SEC_39A", "target": "SMA_CHAP_VII", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VII_HAS_40", "source": "SMA_CHAP_VII", "target": "SMA_SEC_40", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_40_IN_CHAP_VII", "source": "SMA_SEC_40", "target": "SMA_CHAP_VII", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VII_HAS_40A", "source": "SMA_CHAP_VII", "target": "SMA_SEC_40A", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_40A_IN_CHAP_VII", "source": "SMA_SEC_40A", "target": "SMA_CHAP_VII", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VII_HAS_40B", "source": "SMA_CHAP_VII", "target": "SMA_SEC_40B", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_40B_IN_CHAP_VII", "source": "SMA_SEC_40B", "target": "SMA_CHAP_VII", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VII_HAS_40C", "source": "SMA_CHAP_VII", "target": "SMA_SEC_40C", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_40C_IN_CHAP_VII", "source": "SMA_SEC_40C", "target": "SMA_CHAP_VII", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VII_HAS_41", "source": "SMA_CHAP_VII", "target": "SMA_SEC_41", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_41_IN_CHAP_VII", "source": "SMA_SEC_41", "target": "SMA_CHAP_VII", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VIII_HAS_42", "source": "SMA_CHAP_VIII", "target": "SMA_SEC_42", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_42_IN_CHAP_VIII", "source": "SMA_SEC_42", "target": "SMA_CHAP_VIII", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VIII_HAS_43", "source": "SMA_CHAP_VIII", "target": "SMA_SEC_43", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_43_IN_CHAP_VIII", "source": "SMA_SEC_43", "target": "SMA_CHAP_VIII", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VIII_HAS_44", "source": "SMA_CHAP_VIII", "target": "SMA_SEC_44", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_44_IN_CHAP_VIII", "source": "SMA_SEC_44", "target": "SMA_CHAP_VIII", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VIII_HAS_45", "source": "SMA_CHAP_VIII", "target": "SMA_SEC_45", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_45_IN_CHAP_VIII", "source": "SMA_SEC_45", "target": "SMA_CHAP_VIII", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VIII_HAS_46", "source": "SMA_CHAP_VIII", "target": "SMA_SEC_46", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_46_IN_CHAP_VIII", "source": "SMA_SEC_46", "target": "SMA_CHAP_VIII", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VIII_HAS_47", "source": "SMA_CHAP_VIII", "target": "SMA_SEC_47", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_47_IN_CHAP_VIII", "source": "SMA_SEC_47", "target": "SMA_CHAP_VIII", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VIII_HAS_48", "source": "SMA_CHAP_VIII", "target": "SMA_SEC_48", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_48_IN_CHAP_VIII", "source": "SMA_SEC_48", "target": "SMA_CHAP_VIII", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VIII_HAS_49", "source": "SMA_CHAP_VIII", "target": "SMA_SEC_49", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_49_IN_CHAP_VIII", "source": "SMA_SEC_49", "target": "SMA_CHAP_VIII", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VIII_HAS_50", "source": "SMA_CHAP_VIII", "target": "SMA_SEC_50", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_50_IN_CHAP_VIII", "source": "SMA_SEC_50", "target": "SMA_CHAP_VIII", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "CHAP_VIII_HAS_51", "source": "SMA_CHAP_VIII", "target": "SMA_SEC_51", "relation": "CONTAINS_SECTION", "properties": {}}
+{"edge_id": "SEC_51_IN_CHAP_VIII", "source": "SMA_SEC_51", "target": "SMA_CHAP_VIII", "relation": "BELONGS_TO_CHAPTER", "properties": {}}
+{"edge_id": "REF_1_TO_4", "source": "SMA_SEC_1", "target": "SMA_SEC_4", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_1_TO_15", "source": "SMA_SEC_1", "target": "SMA_SEC_15", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_2_TO_3", "source": "SMA_SEC_2", "target": "SMA_SEC_3", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_2_TO_4", "source": "SMA_SEC_2", "target": "SMA_SEC_4", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_3_TO_5", "source": "SMA_SEC_3", "target": "SMA_SEC_5", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_3_TO_9", "source": "SMA_SEC_3", "target": "SMA_SEC_9", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_3_TO_12", "source": "SMA_SEC_3", "target": "SMA_SEC_12", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_4_TO_2", "source": "SMA_SEC_4", "target": "SMA_SEC_2", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_4_TO_5", "source": "SMA_SEC_4", "target": "SMA_SEC_5", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_4_TO_24", "source": "SMA_SEC_4", "target": "SMA_SEC_24", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_5_TO_6", "source": "SMA_SEC_5", "target": "SMA_SEC_6", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_5_TO_7", "source": "SMA_SEC_5", "target": "SMA_SEC_7", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_5_TO_14", "source": "SMA_SEC_5", "target": "SMA_SEC_14", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_6_TO_5", "source": "SMA_SEC_6", "target": "SMA_SEC_5", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_6_TO_7", "source": "SMA_SEC_6", "target": "SMA_SEC_7", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_7_TO_4", "source": "SMA_SEC_7", "target": "SMA_SEC_4", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_7_TO_6", "source": "SMA_SEC_7", "target": "SMA_SEC_6", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_7_TO_8", "source": "SMA_SEC_7", "target": "SMA_SEC_8", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_8_TO_7", "source": "SMA_SEC_8", "target": "SMA_SEC_7", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_8_TO_9", "source": "SMA_SEC_8", "target": "SMA_SEC_9", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_9_TO_8", "source": "SMA_SEC_9", "target": "SMA_SEC_8", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_10_TO_7", "source": "SMA_SEC_10", "target": "SMA_SEC_7", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_10_TO_8", "source": "SMA_SEC_10", "target": "SMA_SEC_8", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_11_TO_12", "source": "SMA_SEC_11", "target": "SMA_SEC_12", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_11_TO_13", "source": "SMA_SEC_11", "target": "SMA_SEC_13", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_12_TO_11", "source": "SMA_SEC_12", "target": "SMA_SEC_11", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_12_TO_13", "source": "SMA_SEC_12", "target": "SMA_SEC_13", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_13_TO_11", "source": "SMA_SEC_13", "target": "SMA_SEC_11", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_13_TO_12", "source": "SMA_SEC_13", "target": "SMA_SEC_12", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_13_TO_47", "source": "SMA_SEC_13", "target": "SMA_SEC_47", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_14_TO_5", "source": "SMA_SEC_14", "target": "SMA_SEC_5", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_14_TO_8", "source": "SMA_SEC_14", "target": "SMA_SEC_8", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_14_TO_10", "source": "SMA_SEC_14", "target": "SMA_SEC_10", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_15_TO_16", "source": "SMA_SEC_15", "target": "SMA_SEC_16", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_15_TO_17", "source": "SMA_SEC_15", "target": "SMA_SEC_17", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_15_TO_18", "source": "SMA_SEC_15", "target": "SMA_SEC_18", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_16_TO_15", "source": "SMA_SEC_16", "target": "SMA_SEC_15", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_16_TO_17", "source": "SMA_SEC_16", "target": "SMA_SEC_17", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_16_TO_18", "source": "SMA_SEC_16", "target": "SMA_SEC_18", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_17_TO_16", "source": "SMA_SEC_17", "target": "SMA_SEC_16", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_18_TO_15", "source": "SMA_SEC_18", "target": "SMA_SEC_15", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_18_TO_16", "source": "SMA_SEC_18", "target": "SMA_SEC_16", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_18_TO_24", "source": "SMA_SEC_18", "target": "SMA_SEC_24", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_18_TO_26", "source": "SMA_SEC_18", "target": "SMA_SEC_26", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_19_TO_21", "source": "SMA_SEC_19", "target": "SMA_SEC_21", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_19_TO_21A", "source": "SMA_SEC_19", "target": "SMA_SEC_21A", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_20_TO_19", "source": "SMA_SEC_20", "target": "SMA_SEC_19", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_20_TO_21", "source": "SMA_SEC_20", "target": "SMA_SEC_21", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_21_TO_19", "source": "SMA_SEC_21", "target": "SMA_SEC_19", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_21_TO_20", "source": "SMA_SEC_21", "target": "SMA_SEC_20", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_21_TO_21A", "source": "SMA_SEC_21", "target": "SMA_SEC_21A", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_21A_TO_19", "source": "SMA_SEC_21A", "target": "SMA_SEC_19", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_21A_TO_20", "source": "SMA_SEC_21A", "target": "SMA_SEC_20", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_21A_TO_21", "source": "SMA_SEC_21A", "target": "SMA_SEC_21", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_22_TO_23", "source": "SMA_SEC_22", "target": "SMA_SEC_23", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_22_TO_27", "source": "SMA_SEC_22", "target": "SMA_SEC_27", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_22_TO_34", "source": "SMA_SEC_22", "target": "SMA_SEC_34", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_23_TO_22", "source": "SMA_SEC_23", "target": "SMA_SEC_22", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_23_TO_27", "source": "SMA_SEC_23", "target": "SMA_SEC_27", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_23_TO_34", "source": "SMA_SEC_23", "target": "SMA_SEC_34", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_24_TO_4", "source": "SMA_SEC_24", "target": "SMA_SEC_4", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_24_TO_15", "source": "SMA_SEC_24", "target": "SMA_SEC_15", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_24_TO_25", "source": "SMA_SEC_24", "target": "SMA_SEC_25", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_24_TO_26", "source": "SMA_SEC_24", "target": "SMA_SEC_26", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_25_TO_24", "source": "SMA_SEC_25", "target": "SMA_SEC_24", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_25_TO_26", "source": "SMA_SEC_25", "target": "SMA_SEC_26", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_26_TO_24", "source": "SMA_SEC_26", "target": "SMA_SEC_24", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_26_TO_25", "source": "SMA_SEC_26", "target": "SMA_SEC_25", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_27_TO_23", "source": "SMA_SEC_27", "target": "SMA_SEC_23", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_27_TO_27A", "source": "SMA_SEC_27", "target": "SMA_SEC_27A", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_27_TO_28", "source": "SMA_SEC_27", "target": "SMA_SEC_28", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_27_TO_29", "source": "SMA_SEC_27", "target": "SMA_SEC_29", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_27_TO_30", "source": "SMA_SEC_27", "target": "SMA_SEC_30", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_27_TO_34", "source": "SMA_SEC_27", "target": "SMA_SEC_34", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_27_TO_36", "source": "SMA_SEC_27", "target": "SMA_SEC_36", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_27_TO_37", "source": "SMA_SEC_27", "target": "SMA_SEC_37", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_27A_TO_23", "source": "SMA_SEC_27A", "target": "SMA_SEC_23", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_27A_TO_27", "source": "SMA_SEC_27A", "target": "SMA_SEC_27", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_28_TO_27", "source": "SMA_SEC_28", "target": "SMA_SEC_27", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_28_TO_29", "source": "SMA_SEC_28", "target": "SMA_SEC_29", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_28_TO_30", "source": "SMA_SEC_28", "target": "SMA_SEC_30", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_29_TO_27", "source": "SMA_SEC_29", "target": "SMA_SEC_27", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_29_TO_28", "source": "SMA_SEC_29", "target": "SMA_SEC_28", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_29_TO_13", "source": "SMA_SEC_29", "target": "SMA_SEC_13", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_30_TO_27", "source": "SMA_SEC_30", "target": "SMA_SEC_27", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_30_TO_28", "source": "SMA_SEC_30", "target": "SMA_SEC_28", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_30_TO_39", "source": "SMA_SEC_30", "target": "SMA_SEC_39", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_31_TO_22", "source": "SMA_SEC_31", "target": "SMA_SEC_22", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_31_TO_23", "source": "SMA_SEC_31", "target": "SMA_SEC_23", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_31_TO_27", "source": "SMA_SEC_31", "target": "SMA_SEC_27", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_31_TO_28", "source": "SMA_SEC_31", "target": "SMA_SEC_28", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_32_TO_31", "source": "SMA_SEC_32", "target": "SMA_SEC_31", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_33_TO_31", "source": "SMA_SEC_33", "target": "SMA_SEC_31", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_33_TO_34", "source": "SMA_SEC_33", "target": "SMA_SEC_34", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_34_TO_27", "source": "SMA_SEC_34", "target": "SMA_SEC_27", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_34_TO_28", "source": "SMA_SEC_34", "target": "SMA_SEC_28", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_34_TO_35", "source": "SMA_SEC_34", "target": "SMA_SEC_35", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_35_TO_22", "source": "SMA_SEC_35", "target": "SMA_SEC_22", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_35_TO_23", "source": "SMA_SEC_35", "target": "SMA_SEC_23", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_35_TO_27", "source": "SMA_SEC_35", "target": "SMA_SEC_27", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_35_TO_34", "source": "SMA_SEC_35", "target": "SMA_SEC_34", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_36_TO_37", "source": "SMA_SEC_36", "target": "SMA_SEC_37", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_36_TO_38", "source": "SMA_SEC_36", "target": "SMA_SEC_38", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_37_TO_36", "source": "SMA_SEC_37", "target": "SMA_SEC_36", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_37_TO_38", "source": "SMA_SEC_37", "target": "SMA_SEC_38", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_38_TO_36", "source": "SMA_SEC_38", "target": "SMA_SEC_36", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_38_TO_37", "source": "SMA_SEC_38", "target": "SMA_SEC_37", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_39_TO_37", "source": "SMA_SEC_39", "target": "SMA_SEC_37", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_39_TO_38", "source": "SMA_SEC_39", "target": "SMA_SEC_38", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_39_TO_39A", "source": "SMA_SEC_39", "target": "SMA_SEC_39A", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_39A_TO_39", "source": "SMA_SEC_39A", "target": "SMA_SEC_39", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_40_TO_41", "source": "SMA_SEC_40", "target": "SMA_SEC_41", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_40A_TO_23", "source": "SMA_SEC_40A", "target": "SMA_SEC_23", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_40A_TO_27", "source": "SMA_SEC_40A", "target": "SMA_SEC_27", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_40A_TO_31", "source": "SMA_SEC_40A", "target": "SMA_SEC_31", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_40B_TO_40", "source": "SMA_SEC_40B", "target": "SMA_SEC_40", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_40C_TO_40", "source": "SMA_SEC_40C", "target": "SMA_SEC_40", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_41_TO_40", "source": "SMA_SEC_41", "target": "SMA_SEC_40", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_43_TO_44", "source": "SMA_SEC_43", "target": "SMA_SEC_44", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_44_TO_43", "source": "SMA_SEC_44", "target": "SMA_SEC_43", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_45_TO_11", "source": "SMA_SEC_45", "target": "SMA_SEC_11", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_45_TO_13", "source": "SMA_SEC_45", "target": "SMA_SEC_13", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_46_TO_5", "source": "SMA_SEC_46", "target": "SMA_SEC_5", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_46_TO_6", "source": "SMA_SEC_46", "target": "SMA_SEC_6", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_47_TO_13", "source": "SMA_SEC_47", "target": "SMA_SEC_13", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_47_TO_48", "source": "SMA_SEC_47", "target": "SMA_SEC_48", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_48_TO_13", "source": "SMA_SEC_48", "target": "SMA_SEC_13", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_48_TO_47", "source": "SMA_SEC_48", "target": "SMA_SEC_47", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_48_TO_49", "source": "SMA_SEC_48", "target": "SMA_SEC_49", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_49_TO_13", "source": "SMA_SEC_49", "target": "SMA_SEC_13", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_49_TO_48", "source": "SMA_SEC_49", "target": "SMA_SEC_48", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_50_TO_3", "source": "SMA_SEC_50", "target": "SMA_SEC_3", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_50_TO_9", "source": "SMA_SEC_50", "target": "SMA_SEC_9", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_50_TO_16", "source": "SMA_SEC_50", "target": "SMA_SEC_16", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "REF_50_TO_48", "source": "SMA_SEC_50", "target": "SMA_SEC_48", "relation": "REFERENCES_SECTION", "properties": {"hop_weight": 1.0}}
+{"edge_id": "CONCEPT_SPECIAL_MARRIAGE_SOLEMNIZATION_COVERS_4", "source": "CONCEPT_SPECIAL_MARRIAGE_SOLEMNIZATION", "target": "SMA_SEC_4", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_SPECIAL_MARRIAGE_SOLEMNIZATION_COVERS_5", "source": "CONCEPT_SPECIAL_MARRIAGE_SOLEMNIZATION", "target": "SMA_SEC_5", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_SPECIAL_MARRIAGE_SOLEMNIZATION_COVERS_6", "source": "CONCEPT_SPECIAL_MARRIAGE_SOLEMNIZATION", "target": "SMA_SEC_6", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_SPECIAL_MARRIAGE_SOLEMNIZATION_COVERS_7", "source": "CONCEPT_SPECIAL_MARRIAGE_SOLEMNIZATION", "target": "SMA_SEC_7", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_SPECIAL_MARRIAGE_SOLEMNIZATION_COVERS_8", "source": "CONCEPT_SPECIAL_MARRIAGE_SOLEMNIZATION", "target": "SMA_SEC_8", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_SPECIAL_MARRIAGE_SOLEMNIZATION_COVERS_9", "source": "CONCEPT_SPECIAL_MARRIAGE_SOLEMNIZATION", "target": "SMA_SEC_9", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_SPECIAL_MARRIAGE_SOLEMNIZATION_COVERS_10", "source": "CONCEPT_SPECIAL_MARRIAGE_SOLEMNIZATION", "target": "SMA_SEC_10", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_SPECIAL_MARRIAGE_SOLEMNIZATION_COVERS_11", "source": "CONCEPT_SPECIAL_MARRIAGE_SOLEMNIZATION", "target": "SMA_SEC_11", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_SPECIAL_MARRIAGE_SOLEMNIZATION_COVERS_12", "source": "CONCEPT_SPECIAL_MARRIAGE_SOLEMNIZATION", "target": "SMA_SEC_12", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_SPECIAL_MARRIAGE_SOLEMNIZATION_COVERS_13", "source": "CONCEPT_SPECIAL_MARRIAGE_SOLEMNIZATION", "target": "SMA_SEC_13", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_SPECIAL_MARRIAGE_SOLEMNIZATION_COVERS_14", "source": "CONCEPT_SPECIAL_MARRIAGE_SOLEMNIZATION", "target": "SMA_SEC_14", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_MARRIAGE_REGISTRATION_COVERS_13", "source": "CONCEPT_MARRIAGE_REGISTRATION", "target": "SMA_SEC_13", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_MARRIAGE_REGISTRATION_COVERS_15", "source": "CONCEPT_MARRIAGE_REGISTRATION", "target": "SMA_SEC_15", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_MARRIAGE_REGISTRATION_COVERS_16", "source": "CONCEPT_MARRIAGE_REGISTRATION", "target": "SMA_SEC_16", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_MARRIAGE_REGISTRATION_COVERS_17", "source": "CONCEPT_MARRIAGE_REGISTRATION", "target": "SMA_SEC_17", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_MARRIAGE_REGISTRATION_COVERS_18", "source": "CONCEPT_MARRIAGE_REGISTRATION", "target": "SMA_SEC_18", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_MARRIAGE_REGISTRATION_COVERS_47", "source": "CONCEPT_MARRIAGE_REGISTRATION", "target": "SMA_SEC_47", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_MARRIAGE_REGISTRATION_COVERS_48", "source": "CONCEPT_MARRIAGE_REGISTRATION", "target": "SMA_SEC_48", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_MARRIAGE_REGISTRATION_COVERS_49", "source": "CONCEPT_MARRIAGE_REGISTRATION", "target": "SMA_SEC_49", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_DIVORCE_GROUNDS_COVERS_27", "source": "CONCEPT_DIVORCE_GROUNDS", "target": "SMA_SEC_27", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_DIVORCE_GROUNDS_COVERS_27A", "source": "CONCEPT_DIVORCE_GROUNDS", "target": "SMA_SEC_27A", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_DIVORCE_GROUNDS_COVERS_28", "source": "CONCEPT_DIVORCE_GROUNDS", "target": "SMA_SEC_28", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_DIVORCE_GROUNDS_COVERS_29", "source": "CONCEPT_DIVORCE_GROUNDS", "target": "SMA_SEC_29", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_DIVORCE_GROUNDS_COVERS_30", "source": "CONCEPT_DIVORCE_GROUNDS", "target": "SMA_SEC_30", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_VOID_VOIDABLE_COVERS_24", "source": "CONCEPT_VOID_VOIDABLE", "target": "SMA_SEC_24", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_VOID_VOIDABLE_COVERS_25", "source": "CONCEPT_VOID_VOIDABLE", "target": "SMA_SEC_25", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_VOID_VOIDABLE_COVERS_26", "source": "CONCEPT_VOID_VOIDABLE", "target": "SMA_SEC_26", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_ALIMONY_MAINTENANCE_COVERS_36", "source": "CONCEPT_ALIMONY_MAINTENANCE", "target": "SMA_SEC_36", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_ALIMONY_MAINTENANCE_COVERS_37", "source": "CONCEPT_ALIMONY_MAINTENANCE", "target": "SMA_SEC_37", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_CUSTODY_COVERS_38", "source": "CONCEPT_CUSTODY", "target": "SMA_SEC_38", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_JUDICIAL_SEPARATION_COVERS_22", "source": "CONCEPT_JUDICIAL_SEPARATION", "target": "SMA_SEC_22", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_JUDICIAL_SEPARATION_COVERS_23", "source": "CONCEPT_JUDICIAL_SEPARATION", "target": "SMA_SEC_23", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_SUCCESSION_PROPERTY_COVERS_19", "source": "CONCEPT_SUCCESSION_PROPERTY", "target": "SMA_SEC_19", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_SUCCESSION_PROPERTY_COVERS_20", "source": "CONCEPT_SUCCESSION_PROPERTY", "target": "SMA_SEC_20", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_SUCCESSION_PROPERTY_COVERS_21", "source": "CONCEPT_SUCCESSION_PROPERTY", "target": "SMA_SEC_21", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_SUCCESSION_PROPERTY_COVERS_21A", "source": "CONCEPT_SUCCESSION_PROPERTY", "target": "SMA_SEC_21A", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_BIGAMY_PENALTY_COVERS_43", "source": "CONCEPT_BIGAMY_PENALTY", "target": "SMA_SEC_43", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_BIGAMY_PENALTY_COVERS_44", "source": "CONCEPT_BIGAMY_PENALTY", "target": "SMA_SEC_44", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_BIGAMY_PENALTY_COVERS_45", "source": "CONCEPT_BIGAMY_PENALTY", "target": "SMA_SEC_45", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_BIGAMY_PENALTY_COVERS_46", "source": "CONCEPT_BIGAMY_PENALTY", "target": "SMA_SEC_46", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_INTERFAITH_MARRIAGE_COVERS_4", "source": "CONCEPT_INTERFAITH_MARRIAGE", "target": "SMA_SEC_4", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_INTERFAITH_MARRIAGE_COVERS_5", "source": "CONCEPT_INTERFAITH_MARRIAGE", "target": "SMA_SEC_5", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_INTERFAITH_MARRIAGE_COVERS_6", "source": "CONCEPT_INTERFAITH_MARRIAGE", "target": "SMA_SEC_6", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_INTERFAITH_MARRIAGE_COVERS_7", "source": "CONCEPT_INTERFAITH_MARRIAGE", "target": "SMA_SEC_7", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_INTERFAITH_MARRIAGE_COVERS_15", "source": "CONCEPT_INTERFAITH_MARRIAGE", "target": "SMA_SEC_15", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_INTERFAITH_MARRIAGE_COVERS_19", "source": "CONCEPT_INTERFAITH_MARRIAGE", "target": "SMA_SEC_19", "relation": "COVERS_SECTION", "properties": {}}
+{"edge_id": "CONCEPT_INTERFAITH_MARRIAGE_COVERS_21A", "source": "CONCEPT_INTERFAITH_MARRIAGE", "target": "SMA_SEC_21A", "relation": "COVERS_SECTION", "properties": {}}
