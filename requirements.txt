@@ -1,0 +1,7 @@
+streamlit>=1.40
+google-genai
+pinecone
+rank-bm25
+networkx
+langdetect
+groq
